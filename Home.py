@@ -9,7 +9,7 @@ st.set_page_config(
 # Display a logo image
 
 # Define the logo and text
-logo = "C:\\Users\\modip\\PycharmProjects\\AMSBOC\\hackit\\pic.png"
+logo = "pic.png"
 
 # Create a two-column layout
 col1, col2 = st.columns([1, 2.4])
