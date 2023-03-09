@@ -22,7 +22,7 @@ Press Y key for Yes (Yes for Proper Frame Capturing of the Employee)
 
 def execute_notebook():
     papermill.execute_notebook(
-        'hackit\\Pages\\Register.ipynb',
+        'Pages/Register.ipynb',
         'output.ipynb'
     )
 
